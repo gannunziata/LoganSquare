@@ -1,6 +1,6 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-LoganSquare-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1550) [![Android Weekly](https://img.shields.io/badge/Android%20Weekly-141-blue.svg?style=flat)](http://androidweekly.net/issues/issue-141) [![Travis Build](https://travis-ci.org/bluelinelabs/LoganSquare.svg)](https://travis-ci.org/bluelinelabs/LoganSquare)
 
-#LoganSquare
+# LoganSquare
 
 The fastest JSON parsing and serializing library available for Android. Based on Jackson's streaming API, LoganSquare is able to consistently outperform GSON and Jackson's Databind library by 400% or more<sup>[1](#1)</sup>. By relying on compile-time annotation processing to generate code, you know that your JSON will parse and serialize faster than any other method available.
 
